@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bbebb2028a6ed2a46875fa7a21040fee
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - treePrefab: {instanceID: 0}
+  - archerTowerPrefab: {fileID: 5627732199233418354, guid: 32e021a77d51b454eac1d997333fffbc, type: 3}
+  - cannonTowerPrefab: {fileID: 8434420549368813620, guid: c7fdad6cb06bd3945bddc2cef36423a4, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
